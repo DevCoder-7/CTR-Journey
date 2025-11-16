@@ -7,4 +7,5 @@ Play this short game to get familiar with terminal applications and some of the 
 Connect to the program with netcat: 
 $ nc verbal-sleep.picoctf.net 60559
 
+# Solve
 flag: `picoCTF{m1113n1um_3d1710n_219b5811}`
