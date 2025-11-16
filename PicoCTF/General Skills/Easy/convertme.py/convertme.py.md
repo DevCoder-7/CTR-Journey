@@ -4,7 +4,7 @@ Author: LT 'syreal' Jones
 
 Description:
 Run the Python script and convert the given number from decimal to binary to get the flag. 
-Download Python script
+[Download Python script](https://artifacts.picoctf.net/c/24/convertme.py)
 
 # Solve
 flag: `picoCTF{4ll_y0ur_b4535_722f6b39}`
