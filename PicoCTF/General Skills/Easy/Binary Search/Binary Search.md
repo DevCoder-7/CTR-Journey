@@ -13,4 +13,5 @@ You can download the challenge files here:
 
 `ssh -p 52273 ctf-player@atlas.picoctf.net` Using the password _6dd28e9b_. Accept the **fingerprint** with **yes**, and **ls** once connected to begin. Remember, in a shell, passwords are hidden!
 
+# Solve
 flag: `picoCTF{g00d_gu355_de9570b0}`
