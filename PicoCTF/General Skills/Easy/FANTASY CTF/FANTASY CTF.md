@@ -1,6 +1,7 @@
 # FANTASY CTF
 
 Author: syreal
+
 Description
 Play this short game to get familiar with terminal applications and some of the most important rules in scope for picoCTF. 
 Connect to the program with netcat: 
