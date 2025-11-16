@@ -9,7 +9,7 @@ You'll have 1000 possibilities and only 10 guesses. Cyber security often has a h
 vulnerability reports, and forensics. Practicing the fundamentals manually might help you in the future when you have to write your own tools! 
 You can download the challenge files here:
 
-- challenge.zip
+- [challenge.zip](https://artifacts.picoctf.net/c_atlas/6/challenge.zip)
 
 `ssh -p 52273 ctf-player@atlas.picoctf.net` Using the password _6dd28e9b_. Accept the **fingerprint** with **yes**, and **ls** once connected to begin. Remember, in a shell, passwords are hidden!
 
