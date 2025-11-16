@@ -1,6 +1,7 @@
 # convertme.py
 
-Author: LT 'syreal' Jones
+Author: 
+LT 'syreal' Jones
 
 Description:
 Run the Python script and convert the given number from decimal to binary to get the flag. 
