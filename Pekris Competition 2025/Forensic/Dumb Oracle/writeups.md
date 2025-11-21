@@ -28,7 +28,7 @@ f2a3db5a 1a930ac5 7465972e`
 
 `Keys: f2a3db5a 1a930ac5 7465972e`
 
-3. decrypt the flag.png
+4. decrypt the flag.png
 - got `flag_decrypted.png`
 
 `../bkcrack/build/src/cli/bkcrack -C ../flag.zip -c flag.png -k f2a3db5a 1a930ac5 7465972e -d ../bkcrack/build/src/cli/bkcrack -C ../flag.zip -c flag.png -k f2a3db5a 1a930ac5 7465972e -d flag_decrypted.png`
@@ -38,7 +38,7 @@ f2a3db5a 1a930ac5 7465972e`
 
 `exiftool flag_decrypted.png`
 
-5. found flag in the Title of png
+6. found flag in the Title of png
 - flag:
 
 `COMPFEST17{welkam_to_digital_forensics_category_:p_d708d27d09}`
