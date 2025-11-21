@@ -5,7 +5,6 @@ import sys
 import os
 
 def run_tshark_command(command, description):
-    """Jalankan perintah tshark dan kembalikan outputnya"""
     print(f"[+] {description}")
     try:
         result = subprocess.run(command, shell=True, capture_output=True, text=True, check=True)
