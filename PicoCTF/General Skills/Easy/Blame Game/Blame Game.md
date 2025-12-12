@@ -9,4 +9,4 @@ You can download the challenge files here:
 - [challenge.zip](https://artifacts.picoctf.net/c_titan/156/challenge.zip)
 
 ## Solve
-flag: `picoCTF{s@n1t1z3_ea83ff2a}`
+flag: `picoCTF{@sk_th3_1nt3rn_d2d29f22}`
